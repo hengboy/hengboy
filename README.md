@@ -5,7 +5,7 @@
 - 博客：[https://blog.yuqiyu.com](https://blog.yuqiyu.com)
 - 微信：yuqiyu999
 - 邮箱：hengboy@minbox.org
-- 简介：专注于基础架构建设，针对`SpringBoot`、`SpringCloud`有一定的落地经验，中国开源推动者。
+- 简介：专注于基础架构建设，针对`SpringBoot`、`SpringCloud`有一定的落地经验，中国开源推动者，[minbox-projects](https://github.com/minbox-projects) 开源组织负责人。
 
 ## :fire:  开源项目
 
