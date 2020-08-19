@@ -15,5 +15,5 @@
 - MinBox Logging（分布式链路日志框架）
   - 源码：https://github.com/minbox-projects/minbox-logging
 - Message Pipe（分布式顺序处理消息管道）
-  - 源码：https://github.com/hengboy/message-pipe
+  - 源码：https://github.com/minbox-projects/message-pipe
 
