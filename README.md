@@ -2,7 +2,7 @@
 
 ## :boy: ​ 恒宇少年（于起宇）
 
-- 博客：<a href="https://blog.yuqiyu.com" target="_blank">https://blog.yuqiyu.com</a>
+- 博客：<a href="https://blog.minbox.org" target="_blank">https://blog.minbox.org</a>
 - 微信：yuqiyu999
 - 邮箱：hengboy@minbox.org
 - 简介：专注于基础架构建设，针对`SpringBoot`、`SpringCloud`有一定的落地经验，中国开源推动者，[minbox-projects](https://github.com/minbox-projects) 开源组织负责人。
